@@ -1,0 +1,71 @@
+body{
+    margin:0;
+    padding: 0;
+    border: 0;
+}
+.container{
+    padding: 2% 0% 0% 10%;
+    background-color: rgb(229, 161, 78);
+}
+
+.cal{
+    display: inline-block;
+    margin-bottom: 20px;
+    padding: 10px;
+    border: 5px;
+    border-color: black;
+    border-style:double;
+    background-color: brown;
+    border-radius: 5%;
+}
+
+h1{
+    margin: 0;
+    color: teal;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-weight: 800;
+}
+
+.place{
+    font-family:'Bradley Hand ITC';
+    font-size: x-large;
+    padding: 1%;
+    margin:1.5%;
+    border: 2px;
+    border-radius: 2%;
+    border-style: inset;
+    background-color: yellow;
+    border-color: aliceblue;
+}
+
+.button1{
+    width: 100px;
+    font-family:'Bradley Hand ITC';
+    font-weight: bolder;
+    height: auto;
+    margin: 5px;
+    font-size: x-large;
+    padding: 20px;
+    border: 5px;
+    border-color:black;
+    border-radius: 50%;
+    border-style: outset;
+    background-color: aqua;
+    color: black;
+}
+
+.button2{
+    width: 200px;
+    height: auto;
+    font-weight: bolder;
+    font-family:'Bradley Hand ITC';
+    margin: 5px;
+    font-size: x-large;
+    padding: 20px;
+    border: 5px;
+    border-color:black;
+    border-radius:5%;
+    border-style: outset;
+    background-color: aqua;
+    color: black;
+}
